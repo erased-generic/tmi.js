@@ -37,7 +37,7 @@
   "repository": "tmijs/tmi.js",
   "bugs": "https://github.com/tmijs/tmi.js/issues",
   "dependencies": {
-    "ws": "8.8.0"
+    "ws": "8.18.0"
   },
   "devDependencies": {
     "esbuild": "0.14.47",
